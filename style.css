@@ -14,7 +14,7 @@
             color: black;
             text-decoration: none;
             padding: 30px;
-        
+            
             font-size: 20px;
             
         }
@@ -38,4 +38,6 @@
             float: right;
     
         } */
-         
+         .intro{
+            font-family:cursive;
+         }

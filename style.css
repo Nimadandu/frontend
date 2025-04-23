@@ -28,16 +28,45 @@
             display: flex;
             
         }
-        /* .Home .intro{
-        text-align: center;
-        }
-        .Home .p
-        {
-            
-            text-align: right;
-            float: right;
-    
-        } */
+        
          .intro{
             font-family:cursive;
          }
+         .Home  {
+            .homeleft{
+                background-color: aliceblue;
+           padding: 50px;
+           font-size: 20px;
+           margin: 40px;
+           border: 5px solid black;
+            }
+            
+         }
+         .imageclass{
+            margin-top: 40px;
+         }
+         .button{
+            background-color:cornflowerblue;
+            float:right;
+            border: 1px dashed black;
+         }
+         
+         .contact{
+            text-align: center;
+            /* background-color: aliceblue; */
+          
+         }
+         .formclass{
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            width: 400px;
+            text-align: center;
+            margin: auto;
+            background-color: aliceblue;
+            padding: 20px;
+
+         }
+         .contact .formclass{
+         }
+         
